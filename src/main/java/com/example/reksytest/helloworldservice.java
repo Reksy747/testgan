@@ -8,6 +8,6 @@ public class helloworldservice {
 
     @RequestMapping("/")
     public String index(){
-        return ("Halo Dunia 2022 server");
+        return ("Halo Dunia 2023 server");
     }
 }
